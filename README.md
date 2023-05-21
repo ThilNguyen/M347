@@ -13,6 +13,6 @@ touch Dockerfile<br>
 **Image bauen**<br>
 docker build -t webserver .<br>
 
-**Container starten**
+**Container starten**<br>
 docker run -p 8080:80 -v $(pwd)/webseite:/usr/local/apache2/htdocs/ -v
 $(pwd)/logs:/usr/local/apache2/logs/ webserver
