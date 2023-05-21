@@ -1,2 +1,2 @@
 # M347
-**Verzeichnis erstellen
+*Verzeichnis erstellen
