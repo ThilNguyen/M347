@@ -1,7 +1,7 @@
 # M347
-**Verzeichnis erstellen**
+**Verzeichnis erstellen**/n
 mkdir webserver
 cd webserver
 mkdir website
 
-**Index Datei hinzufügen
+**Index Datei hinzufügen**
